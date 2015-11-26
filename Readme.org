@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:13.718917
-#+TITLE: 註華嚴法界觀科文
-#+PROPERTY: CBETA_ID X58n1008
-#+PROPERTY: ID KR6e0104
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1008
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 註華嚴法界觀科文 / X
+#+DATE: 2015-11-26 14:18:06.143617
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0104_X_000-0459a>
+* 目次
+* 卷
+** [[file:KR6e0104_001.txt][註華嚴法界觀科文 1]]
