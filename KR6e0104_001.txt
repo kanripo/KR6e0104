@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:13.729674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:50
 #+TITLE: 註華嚴法界觀科文
 #+PROPERTY: CBETA_ID X58n1008
 #+PROPERTY: ID KR6e0104
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1008
 #+PROPERTY: VOL 58
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0104_X_001-0459a> 
 #+PROPERTY: JUAN 1
-No.1008¶
-
- 注華嚴法界觀科¶
+No. 1008¶
+注華嚴法界觀科¶
 平江府普慈寺釋　宗豫　述¶
 
   
@@ -59,7 +58,7 @@ No.1008¶
   * 初通示廣深(故凡)¶
   * 二別顯徧容(故佛)¶
   * 三證法解脫(證此)¶
-  * 四傷已迷倒(由是)¶
+  * 四傷巳迷倒(由是)¶
   * 五結未為廣(然則)¶
   * 二約經對觀(二)¶
   
@@ -381,7 +380,7 @@ No.1008¶
   
   * 初節釋觀文(各前)¶
   * 二離謗絕非(又初)¶
-  * 三示教分齊(已當)¶
+  * 三示教分齊(巳當)¶
   * 四配合心經(又初)¶
   * 五揀會三觀(三)¶
   
@@ -403,7 +402,7 @@ No.1008¶
   * 初略會下門(對)¶
   * 二約境明觀(具此)¶
   * 三約觀顯行(觀事)¶
-  * 四會通教門(已當)¶
+  * 四會通教門(巳當)¶
   * 二別釋(二)¶
   
   * 初標科分(次下)¶
